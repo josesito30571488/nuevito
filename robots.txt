@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /css
+Disallow: /fonts
+Disallow: /img
+Disallow: /img
+Disallow: /index.php
+Disallow: /tv1.php
+Disallow: /televisor2.php
+Disallow: /*.php$
+Disallow: /*.cgi$
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.wmv$
+Disallow: /*.xhtml$
+Disallow: /*.gz$
+
+
+
+
+
+
